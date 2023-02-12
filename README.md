@@ -4,7 +4,7 @@ Hi 👋 My name is Eladio Robles
 Blockchain Developer
 --------------------
 
-* 🌍  I'm based in Barcelona
+* 🌍  I'm based in Tenerife, Canary Islands
 * ✉️  You can contact me at [eladio.robcas@gmail.com](mailto:eladio.robcas@gmail.com)
 * 🤝  I'm open to collaborating on Blockchain Projects
 

@@ -1,8 +1,8 @@
 Hi 👋 My name is Eladio Robles
 ==============================
 
-Blockchain Developer
---------------------
+Blockchain Developer & Zero Knowledge Engineer
+----------------------------------------------
 
 * 🌍  I'm based in Tenerife, Canary Islands
 * ✉️  You can contact me at [eladio.robcas@gmail.com](mailto:eladio.robcas@gmail.com)

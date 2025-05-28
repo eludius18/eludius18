@@ -2,7 +2,7 @@
 Hi 👋 My name is Eladio Robles
 ==============================
 
-Blockchain Developer & Zero Knowledge Engineer with Machine Learning & AI Expertise
+AI & Blockchain Engineer with Zero Knowledge Expertise
 ----------------------------------------------------------------------------------
 
 * 🌍  I'm based in Tenerife, Canary Islands
